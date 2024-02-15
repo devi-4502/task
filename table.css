@@ -1,0 +1,10 @@
+table{
+    width: 100%;
+}
+td{
+    text-align: center;
+}
+th,tr{
+    background-color: rgb(228, 231, 223);
+    border-color: rgb(0, 0, 0);
+}
